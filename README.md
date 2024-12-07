@@ -1,4 +1,4 @@
 # learngit.demo
 Started learning about git and github
 <br>
-Author - Punnet Sharma
+Author - Punnet Kumar Sharma
